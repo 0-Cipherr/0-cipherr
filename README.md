@@ -18,9 +18,6 @@ I build software across the stack, with a focus on **backend systems, smart cont
 **Tools**
 `React` `Node.js` `Express` `PostgreSQL` `Foundry` `Forge` `Hardhat` `EVM` `LayerZero`
 
-## 📊
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=0-Cipherr&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
 
 ---
 
