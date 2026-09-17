@@ -13,7 +13,7 @@ I build software across the stack, with a focus on **backend systems, smart cont
 ## 🛠️ Stack
 
 **Languages**
-`TypeScript` `JavaScript` `Python` `Java` `C++` `SQL` `Solidity`
+`TypeScript` `JavaScript` `Python` `Java` `SQL` `Solidity`
 
 **Tools**
 `React` `Node.js` `Express` `PostgreSQL` `Foundry` `Forge` `Hardhat` `EVM` `LayerZero`
