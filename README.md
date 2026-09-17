@@ -4,7 +4,9 @@
 
 # 0-Cipherr
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=420&height=30&lines=just+making+stuff;taking+it+easy;one+thing+at+a+time" />
+<img src="https://raw.githubusercontent.com/0-Cipherr/Avenor-API/main/assets/eagle.svg" width="420" />
+
+`just making stuff` · `taking it easy` · `one thing at a time`
 
 </div>
 
@@ -13,14 +15,6 @@
 `TypeScript` `JavaScript` `Python` `Java` `SQL` `Solidity`
 
 `React` `Node` `Postgres` `Foundry` `Forge` `Hardhat`
-
-### Projects
-
-**[Avenor](https://github.com/0-Cipherr)**  
-cross-chain yield infrastructure
-
-**[Avenor API](https://github.com/0-Cipherr/Avenor-API)**  
-backend infrastructure
 
 <br>
 
