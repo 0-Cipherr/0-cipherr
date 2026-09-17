@@ -1,38 +1,36 @@
-# 0-Cipherr
+# [0-Cipherr](https://github.com/0-Cipherr)
 
-**Software Engineer · Full-Stack · Web3**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=8B949E&center=false&vCenter=true&width=500&lines=software+engineer;full-stack+developer;web3+builder;building+Avenor..." alt="Typing SVG" />
 
-I build software across the stack — from **React applications and TypeScript APIs** to **Solidity protocols and cross-chain infrastructure**.
+> I build software across the stack — from **React & TypeScript** to **Solidity & cross-chain infrastructure**.
 
-### ⚡ Stack
+## ⚡ What I do
 
-**Languages**
-TypeScript · JavaScript · Python · Java · SQL · C++ · Solidity
+* ⛓️ Building **Avenor** — cross-chain yield infrastructure
+* 🧑‍💻 Full-stack applications & APIs
+* 🔐 Smart contracts & EVM infrastructure
+* 🏗️ Developer tools & backend systems
 
-**Frontend**
-React · HTML · CSS
+## 🛠️ Stack
 
-**Backend**
-Node.js · Express · PostgreSQL
+`TypeScript` `JavaScript` `Python` `Java` `C++` `SQL` `Solidity`
 
-**Web3**
-Solidity · Foundry · Forge · Hardhat · EVM · LayerZero
+`React` `Node.js` `Express` `PostgreSQL`
 
-### 🔨 Building
+`Foundry` `Forge` `Hardhat` `EVM` `LayerZero`
+
+## 📌 Projects
 
 **[Avenor](https://github.com/0-Cipherr)** — cross-chain yield infrastructure
 
-**[OmniVault](https://github.com/0-Cipherr)** — smart-contract vault infrastructure
+**[Avenor API](https://github.com/0-Cipherr/Avenor-API)** — backend infrastructure for Avenor
 
-### 📊 GitHub
+**OmniVault** — smart-contract vault infrastructure
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=0-Cipherr&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Cipherr&layout=compact&hide_border=true&theme=transparent" />
-</p>
+## 📊
+
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=0-Cipherr&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
 
 ---
 
-<p align="center">
-  <code>build → break → learn → repeat</code>
-</p>
+`build · break · learn · repeat`
