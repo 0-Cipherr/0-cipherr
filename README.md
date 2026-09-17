@@ -14,6 +14,5 @@
 
 <br>
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=0-Cipherr&show_icons=true&hide_border=true&theme=transparent&hide_title=true" />
 
 </div>
