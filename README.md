@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
-
 # 0-Cipherr
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=300&height=24&lines=just+making+stuff;taking+it+easy;one+thing+at+a+time" />
@@ -15,5 +12,7 @@
 
 <br>
 
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
 
 </div>
