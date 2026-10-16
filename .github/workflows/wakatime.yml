@@ -12,14 +12,16 @@ jobs:
   update-readme:
     name: Update Waka README
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      - uses: athul/waka-readme@master
+      - name: Update Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: "0-Cipherr/0-cipherr" # Explicitly routes to your profile
+          SECTION_NAME: "waka"
+          TIME_RANGE: "last_7_days" # Safer range for newer accounts
           SHOW_TITLE: true
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 10
-          SHOW_TOTAL: true
+
